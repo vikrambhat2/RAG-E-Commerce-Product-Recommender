@@ -1,0 +1,8 @@
+langchain==0.3.11
+langchain-community==0.3.11
+langchain-core==0.3.25
+langchain-groq==0.2.1
+python-dotenv
+textblob==0.18.0.post0
+streamlit==1.36.0
+wikipedia
